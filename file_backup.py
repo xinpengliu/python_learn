@@ -3,7 +3,6 @@
 
 import os
 import time
-import Tkinter
 
 source = ['/home/samba/']
 target_dir = '/home/backup/'
